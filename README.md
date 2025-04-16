@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muammaryf
 - 👀 I’m interested in Data Science, Marketing and Tech
-- 🌱 I’m currently learning  Data Science - Machine Learning
+- 🌱 I’m certified  Data Science - Machine Learning
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ummarfakhrie@gmail.com
 
